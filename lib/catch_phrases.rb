@@ -5,5 +5,5 @@ end
 
 
 def toadstool
-  status = 'Thank You 
+  status = 'Thank You Mario
 end
