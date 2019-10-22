@@ -5,5 +5,5 @@ end
 
 
 def toadstool
-  status
+  status = 
 end
