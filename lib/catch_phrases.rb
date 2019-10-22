@@ -10,4 +10,4 @@ def toadstool
 end
 
 def link
-  puts "It's Dangerous To
+  puts "It's Dangerous To Go
